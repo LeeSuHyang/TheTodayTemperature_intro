@@ -1,3 +1,4 @@
+   
    # :umbrella: 그날의 온도 : TheDayTemperature
 
 ```
@@ -7,7 +8,8 @@
 여러분은 여러분의 여행에 어떤 기록을 남기고 싶으신가요?
 그날의 온도는 여러분이 기억하고 싶은 그날의 온도를 기억할 수 있도록 도와주는 어플입니다.
 ```
-   
+![lendscape](https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+
 ## 1. 개요
 > ### 1.1 문제 정의(definition)
 >> ```
