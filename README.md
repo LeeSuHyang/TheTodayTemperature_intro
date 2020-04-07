@@ -1,4 +1,4 @@
-   # :umbrella: 그날의 온도 : TheTodayTemperature
+   # :umbrella: 그날의 온도 : TheDayTemperature
 
 ```
 그날의 온도는 귀차니즘이 심하지만 여행 기록을 남기고 싶은 사람들을 위한 안드로이드 어플리케이션 입니다.
